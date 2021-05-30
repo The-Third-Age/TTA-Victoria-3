@@ -1,0 +1,9 @@
+Geographic Area: Geographic regions. Text is always green (0, 255, 0)
+
+Cities: Possible cities. White names (255, 255, 255) are more likely to be placed than the pink (255, 0, 255)
+
+Region Text: The region name text overlay. Text is always black (0, 0, 0)
+
+Region: The planned color-coded regions. Always subject to change
+
+Background: The background image that was graciously given to me by MattTheLegoman (being used by LOTR: Realms in Exile for I:R and CK3)
